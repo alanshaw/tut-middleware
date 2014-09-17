@@ -1,0 +1,18 @@
+{
+  "name": "tut-middleware",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^0.9.0",
+    "request": "^2.42.0",
+    "tape": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "tape test.js"
+  },
+  "author": "Alan Shaw",
+  "license": "MIT"
+}
